@@ -1,4 +1,4 @@
-# Lab M5.02 - Terraform CI/CD Pipeline
+n# Lab M5.02 - Terraform CI/CD Pipeline
 
 **Cloud Engineering Bootcamp - Week 5, Day 1**  
 **Module:** Cloud Automation & CI/CD
